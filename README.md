@@ -28,10 +28,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-![contributors](https://flat.badgen.net/github/contributors/BrunoCostaGH/Calculator)
-![issues](https://flat.badgen.net/github/issues/BrunoCostaGH/Calculator)
-![commits](https://flat.badgen.net/github/commits/BrunoCostaGH/Calculator/master)
-![license](https://flat.badgen.net/github/license/BrunoCostaGH/Calculator)
+![GitHub](https://img.shields.io/github/license/BrunoCostaGH/Calculator?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/BrunoCostaGH/Calculator?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/BrunoCostaGH/Calculator?style=for-the-badge)
+![GitHub Release Date](https://img.shields.io/github/release-date/BrunoCostaGH/Calculator?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BrunoCostaGH/Calculator?style=for-the-badge)
 
 ## Features
 
