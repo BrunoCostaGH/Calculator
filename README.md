@@ -2,7 +2,7 @@
 
 ## Description
 
-For the final project of Computer Applications subject we had to do a calculator using VB.Net. I decided to challenge myself and try to recreate the Windows Calculator, while complying with the project requirements.
+For the final project on Computer Applications subject, we had to do a calculator using VB.Net. I decided to challenge myself and try to recreate the Windows Calculator while complying with the project requirements.
 
 ## License
 
@@ -29,7 +29,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [![GitHub](https://img.shields.io/github/license/BrunoCostaGH/Calculator?style=for-the-badge)](https://github.com/BrunoCostaGH/Calculator/blob/master/LICENSE.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/BrunoCostaGH/Calculator?style=for-the-badge)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/BrunoCostaGH/Calculator?style=for-the-badge)](https://github.com/BrunoCostaGH/Calculator)
 [![GitHub issues](https://img.shields.io/github/issues/BrunoCostaGH/Calculator?style=for-the-badge)](https://github.com/BrunoCostaGH/Calculator/issues)
 [![GitHub Release Date](https://img.shields.io/github/release-date/BrunoCostaGH/Calculator?style=for-the-badge)](https://github.com/BrunoCostaGH/Calculator/releases/latest)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/BrunoCostaGH/Calculator?style=for-the-badge)](https://github.com/BrunoCostaGH/Calculator/releases/latest)
